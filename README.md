@@ -1,2 +1,3 @@
 # leaflet-challenge
 UNC Module 15 Challenge
+I used stack overflow to learn how to use the pointToLayer function to create the markers for my map.  I had to look back at old assignments and my notes to remember exactly how to use onEachFeature and creating good-looking popups.  I used the internet to find the color numbers for the markers.  I used the leaflet documents to learn how to make a chloropleth legend.  I looked into using mapBox api for the base layers but I didn't want to give them my credit card so I just used openstreetmap.  I used a map to find coordinates that would give me the US in the center of my map when it is created.  I copied the style from the leaflet documentation to create my legend.
